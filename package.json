@@ -1,0 +1,24 @@
+{
+  "name": "mymarker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloishias/MyMarker.git"
+  },
+  "author": "Aloïs HIAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloishias/MyMarker/issues"
+  },
+  "homepage": "https://github.com/aloishias/MyMarker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.0.3",
+    "typeorm": "^0.2.24"
+  }
+}
